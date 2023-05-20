@@ -1,0 +1,5 @@
+124543|caja|1222|
+312312|juego|120|
+312242|celular|8900|
+657523|microondas|8916|
+235423|refrigerador|7844|
