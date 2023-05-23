@@ -35,7 +35,8 @@ internal class Program
 
         public static void SaveProductsBinary(List<Product> products)
         {
-            BinaryWriter binaryOut = new BinaryWriter(new FileStream("products.bin", FileMode.Create, FileAccess.Write));
+            FileStream fs = new FileStream("products.bin", FileMode.Create, FileAccess.Write);
+            BinaryWriter binaryOut = new BinaryWriter(fs);
 
             foreach(Product p in products)
             {
@@ -73,6 +74,7 @@ internal class Program
                 Product product = new Product(binaryIn.ReadString(), binaryIn.ReadString(), binaryIn.ReadDecimal());
                 products.Add(product);
             }
+            binaryIn.Close();
             return products;
         }
     }

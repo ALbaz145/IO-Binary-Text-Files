@@ -58,3 +58,18 @@ C:\Users\oscar\Desktop\Trabajos TEc\ProgrmacionObjetos\archivos\obj\Debug\net7.0
 C:\Users\oscar\Desktop\Trabajos TEc\ProgrmacionObjetos\archivos\obj\Debug\net7.0\archivos.pdb
 C:\Users\oscar\Desktop\Trabajos TEc\ProgrmacionObjetos\archivos\obj\Debug\net7.0\archivos.genruntimeconfig.cache
 C:\Users\oscar\Desktop\Trabajos TEc\ProgrmacionObjetos\archivos\obj\Debug\net7.0\ref\archivos.dll
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\bin\Debug\net7.0\archivos.exe
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\bin\Debug\net7.0\archivos.deps.json
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\bin\Debug\net7.0\archivos.runtimeconfig.json
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\bin\Debug\net7.0\archivos.dll
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\bin\Debug\net7.0\archivos.pdb
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\archivos.csproj.AssemblyReference.cache
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\archivos.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\archivos.AssemblyInfo.cs
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\archivos.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\archivos.dll
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\refint\archivos.dll
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\archivos.pdb
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\archivos.genruntimeconfig.cache
+C:\Users\oscar\Desktop\ReposGitHub\IO-Binary-Text-Files\obj\Debug\net7.0\ref\archivos.dll
